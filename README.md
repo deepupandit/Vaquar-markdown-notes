@@ -505,7 +505,7 @@ Other
 
 ## Java Concurrency in Practice
 
-by Brian Goetz
+
 
 #### Chapter 1: Introduction
 
